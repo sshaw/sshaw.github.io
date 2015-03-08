@@ -1,0 +1,9 @@
+title: Screen Staring
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://screenstaring.com" # the base hostname & protocol for your site
+github_username:  sshaw
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
